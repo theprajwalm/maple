@@ -33,8 +33,3 @@ This implementation has been tested with the following dataset:
 1. Clone the repository:
    ```bash
    git clone https://github.com/theprajwalm/maple.git
-
-   ## Maple Worksheet File
-
-The **Maple** worksheet for Aufgabe 2 can be found in the repository. You can open this file in Maple to run the script and visualize the results.
-
